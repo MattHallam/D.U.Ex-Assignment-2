@@ -1,1 +1,4 @@
 # D.U.Ex-Assignment-2
+Design
+
+The aims of the website are to produce a more modern and clearer website that allows for better brand differentiation for customers to understand. This is because it has previously been suggested that the website lacks visual appeal and clear features which could lead to a drop in sales for the business due to a lack of online interaction. Especially with how businesses work in the modern world, it is extremely important to have a strong internet presence to attract potential new customers. Furthermore, there is also a weak brand differentiation with no unique selling point (USP) making it even harder to stand out compared to other websites. Another aim is to allow user to contact the business via a much simpler form as well as including interactive parts to include user engagement (e.g. a video). This can help users stay on the website longer making it more likely that they will engage with the ‘contact us’ part of the website.
