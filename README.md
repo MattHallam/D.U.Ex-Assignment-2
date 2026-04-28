@@ -149,8 +149,19 @@ Services/Products page wireframe:
 -showed different maintenance plans for general options but allowing for bigger buyers to discuss custom plans
 -moved the request a quote part to here from the home page so that users can see the options before doing so
 
+<img width="1902" height="888" alt="home page ss" src="https://github.com/user-attachments/assets/9a515f3e-448a-42f6-8b9b-d97ce47f4be0" />
+
+<img width="1918" height="813" alt="contact page" src="https://github.com/user-attachments/assets/f397010d-3813-49b2-b3b2-82e379013823" />
+
+<img width="1916" height="578" alt="about us ss" src="https://github.com/user-attachments/assets/f18025a3-518d-49c1-b049-f631ea6acd16" />
+
+<img width="1917" height="909" alt="services pt 1" src="https://github.com/user-attachments/assets/824d0a04-e665-477d-985a-0cc92c6dfac4" />
+
+<img width="1918" height="679" alt="services pt 2" src="https://github.com/user-attachments/assets/17920c4c-9968-423e-a61d-1e8b76bd581f" />
+
 
 Reflection:
+
 This website was developed using HTML, CSS and Bootstrap. I used Visual Studio Code as the primary method of writing out the code so it could be implemented into the website as well as the Live Server extension on Visual Studio Code so I could see my changes in real time as building this website was mainly use of trial and error by me. Bootstrap was a huge help for me developing this website with pre-built components coming in super handy such as the navigation bar which allowed for effective development of the website quickly as I honestly started this development later than I should have. 
 
 One of the challenges I faced was starting this development later than I planned to. This initially cause me a lot of stress and setbacks but by being calm and using the tools provided I was able to quickly overcome this and spent a lot of time trying to learn key principles that I was later able to implement into my design such as the use of creating 4 separate pages for different individual features on the website (Home, About, Contact, and Services) to improve navigation of the website.
