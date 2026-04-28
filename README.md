@@ -170,3 +170,9 @@ Another Challenge I faced was setting up the website as my files and folders wer
 
 Overall the development of the website has helped me develop my own understanding of designing the user experience, the importance of the structure of files, and implementation of external tools such as Live Server and Bootstrap to help shorten long processes. 
 
+W3C HTML Validator:
+<img width="1751" height="594" alt="image" src="https://github.com/user-attachments/assets/5531765f-3803-4b41-aaf0-beb921d7e9ee" />
+
+-Changed to style="width:100%; height:300px; border:0;"
+-Changed h3 to h2 as skipping h2 is bad for accessibility
+-changed h5 to h2 as skipping h2 is bad for accessibility 
