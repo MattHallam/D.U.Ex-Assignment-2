@@ -160,3 +160,14 @@ Services/Products page wireframe:
 -created a direct comparison between leasing and buying for returning customers
 -showed different maintenance plans for general options but allowing for bigger buyers to discuss custom plans
 -moved the request a quote part to here from the home page so that users can see the options before doing so
+
+
+Reflection:
+This website was developed using HTML, CSS and Bootstrap. I used Visual Studio Code as the primary method of writing out the code so it could be implemented into the website as well as the Live Server extension on Visual Studio Code so I could see my changes in real time as building this website was mainly use of trial and error by me. Bootstrap was a huge help for me developing this website with pre-built components coming in super handy such as the navigation bar which allowed for effective development of the website quickly as I honestly started this development later than I should have. 
+
+One of the challenges I faced was starting this development later than I planned to. This initially cause me a lot of stress and setbacks but by being calm and using the tools provided I was able to quickly overcome this and spent a lot of time trying to learn key principles that I was later able to implement into my design such as the use of creating 4 separate pages for different individual features on the website (Home, About, Contact, and Services) to improve navigation of the website.
+
+Another Challenge I faced was setting up the website as my files and folders were initially messed up causing the website to not open properly. I was able to resolve this however by organising my files into a clearly named folder.
+
+Overall the development of the website has helped me develop my own understanding of designing the user experience, the importance of the structure of files, and implementation of external tools such as Live Server and Bootstrap to help shorten long processes. 
+
