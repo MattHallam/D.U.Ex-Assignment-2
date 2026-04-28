@@ -176,3 +176,5 @@ W3C HTML Validator:
 -Changed to style="width:100%; height:300px; border:0;"
 -Changed h3 to h2 as skipping h2 is bad for accessibility
 -changed h5 to h2 as skipping h2 is bad for accessibility 
+
+<img width="1902" height="565" alt="image" src="https://github.com/user-attachments/assets/b28d2729-9315-4d91-8ef4-ed669f4fca25" />
