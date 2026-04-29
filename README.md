@@ -74,3 +74,7 @@ W3C HTML Validator:
 -changed h5 to h2 as skipping h2 is bad for accessibility 
 
 <img width="1902" height="565" alt="image" src="https://github.com/user-attachments/assets/b28d2729-9315-4d91-8ef4-ed669f4fca25" />
+
+Google Lighthouse:
+<img width="1915" height="899" alt="google lighthouse" src="https://github.com/user-attachments/assets/7995adf7-683b-4a73-8fdb-dc550c0d9bf8" />
+
