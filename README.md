@@ -69,6 +69,12 @@ Another Challenge I faced was setting up the website as my files and folders wer
 
 Overall the development of the website has helped me develop my own understanding of designing the user experience, the importance of the structure of files, and implementation of external tools such as Live Server and Bootstrap to help shorten long processes. 
 
+user story testing:
+1) users wanted simply navigation of the website = available via the navbar at the top to quickly access different sections
+2) users wanted to be able to submit a contact form = available via the contact page where a name, email and message can be taken
+3) interactive menu for engagement = available via the navbar opening and closing aswell as a pop up 'learn more' on the homepage
+
+
 W3C HTML Validator:
 <img width="1751" height="594" alt="image" src="https://github.com/user-attachments/assets/5531765f-3803-4b41-aaf0-beb921d7e9ee" />
 
