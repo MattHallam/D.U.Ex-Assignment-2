@@ -67,6 +67,8 @@ One of the challenges I faced was starting this development later than I planned
 
 Another Challenge I faced was setting up the website as my files and folders were initially messed up causing the website to not open properly. I was able to resolve this however by organising my files into a clearly named folder.
 
+However, I did learn to use bootstrap well to create a responsive and structured website layout. Things like the navbar and grid system (rows and coloumns), buttons, forms and modal pop-ups were all implemented using bootstrap classes which reduced development time greatly.
+
 Overall the development of the website has helped me develop my own understanding of designing the user experience, the importance of the structure of files, and implementation of external tools such as Live Server and Bootstrap to help shorten long processes. 
 
 user story testing:
@@ -86,4 +88,5 @@ W3C HTML Validator:
 
 Google Lighthouse:
 <img width="1915" height="899" alt="google lighthouse" src="https://github.com/user-attachments/assets/7995adf7-683b-4a73-8fdb-dc550c0d9bf8" />
+
 
