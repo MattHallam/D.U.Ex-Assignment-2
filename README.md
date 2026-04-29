@@ -15,55 +15,14 @@ Frank Smith is a frequent visitor who wants to get in contact with Sirius to req
 Frank inspired the clear and separate contact page created not only for frequent users but also new users, as well as the location part of the website on the home page in case he is wanted to come in and speak to staff directly.
 
 Home Page Wireframe:
---------------------------------------------------
-|    LOGO | Home | Services | About | Contact    |
---------------------------------------------------
-
-                HERO SECTION
-   Managed Print Solutions for Your Business
-   [ Learn More Button ]
-
---------------------------------------------------
-|                SERVICES OVERVIEW               |
---------------------------------------------------
-| Photocopiers | Managed Print | Maintenance    |
-| Short desc   | Short desc    | Short desc     |
---------------------------------------------------
-
---------------------------------------------------
-|              WHY CHOOSE US?                   |
---------------------------------------------------
-| ✔ Reliable | ✔ Cost Effective | ✔ Expert Team |
---------------------------------------------------
-
---------------------------------------------------
-|                LOCATION MAP                  |
---------------------------------------------------
-|              [ Google Map Embed ]            |
---------------------------------------------------
-
---------------------------------------------------
-| FOOTER                                       |
-| Links | Contact Info | Social Icons           |
---------------------------------------------------
+<img width="1182" height="731" alt="home wireframe" src="https://github.com/user-attachments/assets/527979e6-bbc1-43fd-b901-a55f6b697256" />
 
 -included a location feature for clients that may want to come into the office to speak with the company directly in case they may want a different deal than ones already suggested on the website.
 -simplified information part for first time users as most people don’t want to spend hours reading about lots of different types of printing services and photocopiers and would rather quickly get what they want
 -went for a more simple colour choice so that its ‘easier on the eyes’ due to people with colour blindness potentially struggling to read certain words on harshly coloured backgrounds.
 
 About page wireframe:
---------------------------------------------------
-|    LOGO | Home | Services | About | Contact    |
---------------------------------------------------
-
-                    ABOUT US
-   Company background and overview
-
---------------------------------------------------
-|                 VIDEO SECTION                |
---------------------------------------------------
-|           [ Company Video Player ]           |
---------------------------------------------------
+<img width="1178" height="606" alt="about wireframe" src="https://github.com/user-attachments/assets/2562860f-7b5b-44ba-8bc4-04ffee9cfd93" />
 
 -completely new page from the previous designs
 -felt needed as it builds trust with the customer for them to know about the business and background
@@ -71,30 +30,7 @@ About page wireframe:
 -helps people know what kind of people in the team they are working with
 
 Contact page wireframe:
---------------------------------------------------
-|    LOGO | Home | Services | About | Contact    |
---------------------------------------------------
-
-                    CONTACT US
-
---------------------------------------------------
-|                CONTACT FORM                  |
---------------------------------------------------
-| Name:    [______________]                    |
-| Email:   [______________]                    |
-| Phone:   [______________]                    |
-| Message: [______________]                    |
-|                                            |
-|          [ Send Message ]                  |
---------------------------------------------------
-
---------------------------------------------------
-|             CONTACT INFORMATION              |
---------------------------------------------------
-| Phone: 01279 123456                         |
-| Email: info@sirius-solutions.co.uk          |
-| Location: Hertfordshire, UK                 |
---------------------------------------------------
+<img width="1179" height="740" alt="contact wireframe" src="https://github.com/user-attachments/assets/337c26e5-61a6-4b7b-84e8-68a2fe1953ee" />
 
 -completely new page from the previous designs
 -felt needed as it builds trust with the customer for them to know about the business and background
@@ -102,48 +38,8 @@ Contact page wireframe:
 -helps people know what kind of people in the team they are working with
 
 Services/Products page wireframe:
---------------------------------------------------
-|    LOGO | Home | Services | About | Contact    |
---------------------------------------------------
-
-                PRODUCT & SERVICES
-   Compare leasing, buying, and maintenance plans
-
---------------------------------------------------
-|              LEASING VS BUYING                 |
---------------------------------------------------
-| Feature            | Leasing | Buying          |
-|--------------------|---------|-----------------|
-| Upfront Cost       | Low     | High            |
-| Monthly Payments   | Yes     | No              |
-| Maintenance        | Included| Extra           |
-| Upgrades           | Flexible| Limited         |
-| Best For           | Growth  | Long-term       |
---------------------------------------------------
-
---------------------------------------------------
-|             MAINTENANCE PLANS                  |
---------------------------------------------------
-|   BASIC        |   STANDARD      |   PREMIUM   |
-|  £25/month     |   £50/month     |  £80/month  |
-|  ✔ Support     |   ✔ Callouts    | ✔ Priority  |
-|  ✔ Annual      |   ✔ Parts       | ✔ Repairs   |
-| [Select Plan]  | [Select Plan]   | [Select]    |
---------------------------------------------------
-
---------------------------------------------------
-|             REQUEST A QUOTE                   |
---------------------------------------------------
-| Business Name: [______________]               |
-| Email:         [______________]               |
-| Phone:         [______________]               |
-| Option:        [Leasing ▼]                    |
-| Plan:          [Standard ▼]                   |
-| Devices:       [____]                         |
-| Notes:         [__________________________]   |
-|                                             |
-|           [ Submit Request ]                |
---------------------------------------------------
+<img width="1179" height="620" alt="Prices wireframe pt 1" src="https://github.com/user-attachments/assets/bb2d5085-7735-41c8-bca0-8d8c70ea830c" />
+<img width="1173" height="368" alt="prices wireframe pt 2" src="https://github.com/user-attachments/assets/6159a72b-a36e-442d-9b3b-6ddcfb02bf63" />
 
 -created a direct comparison between leasing and buying for returning customers
 -showed different maintenance plans for general options but allowing for bigger buyers to discuss custom plans
